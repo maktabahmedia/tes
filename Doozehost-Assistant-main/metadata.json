@@ -1,0 +1,5 @@
+{
+  "name": "DoozeHost Assistant",
+  "description": "Alat pengembang untuk membuat konfigurasi Firebase Hosting, panduan CLI langkah demi langkah, dan asisten AI untuk mengatasi masalah deployment.",
+  "requestFramePermissions": []
+}
